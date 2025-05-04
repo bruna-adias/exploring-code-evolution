@@ -76,11 +76,11 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: [VSCode](https://github.com/microsoft/vscode)
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: LOC / TypeScript Files
   
-3. Explicação: <EXPLICACAO_AQUI>
+3. Explicação: Ao longo de cinco dos seis anos analisados, a média de linhas de código por arquivo TypeScript permaneceu praticamente estável, indicando uma boa prática de separação de responsabilidades. No entanto, em 2025, observou-se um aumento de aproximadamente 12% nesse indicador em comparação ao ano anterior. Embora esse crescimento ainda não seja expressivo, serve como um sinal de alerta para evitar que a tendência se intensifique e comprometa a qualidade do código. A análise dos demais gráficos e do próprio código sugere que, em 2025, o número de funcionalidades desenvolvidas foi maior do que o habitual para a equipe, o que pode ter contribuído para esse desvio das boas práticas.
 
 
 
